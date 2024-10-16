@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeaveManagement", "LeaveManagement.csproj", "{F6B822FE-A741-4252-830A-72CE1A534ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B822FE-A741-4252-830A-72CE1A534ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B822FE-A741-4252-830A-72CE1A534ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B822FE-A741-4252-830A-72CE1A534ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B822FE-A741-4252-830A-72CE1A534ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA11F892-07E3-4A76-9253-56572508EC2C}
+	EndGlobalSection
+EndGlobal
